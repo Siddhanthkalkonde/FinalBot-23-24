@@ -233,16 +233,6 @@ docker build -t finalbot .
 docker run -d --name finalbot-container finalbot
 ```
 
-3. **VPS Deployment:**
-```bash
-# Transfer files to your server
-scp -r . user@server:/path/to/app
-
-# Set up systemd service (recommended)
-sudo systemctl enable finalbot.service
-sudo systemctl start finalbot
-```
-
 ## Performance Monitoring
 
 The bot includes built-in monitoring features:
