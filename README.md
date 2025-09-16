@@ -294,6 +294,6 @@ Check logs in the `logs/` directory for detailed error information.
 
 ---
 
-**Developed with ❤️ by Siddhanth Kalkonde**
+
 
 *Last updated: September 2025*
